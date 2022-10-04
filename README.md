@@ -1,5 +1,10 @@
 # ImageCropAndroid
 
+implementation "androidx.exifinterface:exifinterface:1.3.3"
+
+implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.0'
+
+
 ![20220913123707](https://user-images.githubusercontent.com/42431637/189835211-ce9fde34-d016-49c0-83ba-bb7a9425ab93.jpg)
 
 ![20220913123726](https://user-images.githubusercontent.com/42431637/189835232-7cb2b849-ee09-4eba-bae9-5c07b65c968c.jpg)
